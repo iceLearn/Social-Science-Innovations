@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Social-Science-Innovations
+================================
+This is a curated course shared by Prof. Phil Howard on how to conduct social science research when there are challanges restriciting in-person meeting and mobiity - 
+[Link to the tweet](https://twitter.com/pnhoward/status/1293216094900097026)
 
-You can use the [editor on GitHub](https://github.com/iceLearn/Social-Science-Innovations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Introduction to the Course
+-----------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Intoduction Prezi notes  - [Link to the prezi](https://prezi.com/view/3wriGjzkDElzKFFK5XYo/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Virtual Focus Groups 
+------------------------------
+#### Link to the prezi - [Notes](https://prezi.com/view/djyBHQaFELNlldwY2kML/)
 
-```markdown
-Syntax highlighted code block
+#### Reading list in the Focus Group [Zotero citation Database](https://www.zotero.org/groups/351543/comprop/collections/QN5M8JTB/items/CQG9BXX8/collection)
 
-# Header 1
-## Header 2
-### Header 3
+#### Handout - [Google Doc Link](https://docs.google.com/document/d/10820bGIJcs5SvO-_E-cwGhVLf3KnrUFB6kpMl88mCLw/edit)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Comparative Methods
+------------------------
+#### Intor to the methods - [Notes](https://prezi.com/view/XGDtFKqpwtyfR8L9PIDf/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iceLearn/Social-Science-Innovations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Reading link - [Zotero Link](https://www.zotero.org/groups/351543/comprop/collections/VW5DYPKP)
