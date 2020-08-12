@@ -1,7 +1,10 @@
 Social-Science-Innovations
 ================================
-This is a curated course shared by Prof. Phil Howard on how to conduct social science research when there are challanges restriciting in-person meeting and mobiity - 
+How to conduct social science research during a pandemic? This repository contain a course shared by Prof. Phil Howard at the The Oxford Internet Institute (OII)  on how to conduct social science research when there are challanges restriciting in-person meeting and mobiity - 
 [Link to the tweet](https://twitter.com/pnhoward/status/1293216094900097026)
+
+![image](https://user-images.githubusercontent.com/12571844/89996463-71cb8080-dca8-11ea-813e-9152a49d6528.png)
+
 
 Introduction to the Course
 -----------------------------
